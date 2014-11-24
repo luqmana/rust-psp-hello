@@ -1,0 +1,10 @@
+*.ll
+*.a
+*.o
+*.prx
+*.elf
+target/
+.DS_Store
+Cargo.lock
+*.swp
+psp.json
